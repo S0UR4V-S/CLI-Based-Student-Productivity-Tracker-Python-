@@ -15,9 +15,13 @@ It allows users to log study sessions and view productivity analytics.
 ## Project Structure
 productivity_tracker/
 ├── main.py
+
 ├── tracker.py
+
 ├── storage.py
+
 ├── utils.py
+
 └── data.json
 
 ## How to Run
@@ -40,4 +44,5 @@ real, structured, and usable applications.
 
 ## Author
 Sourav Singh (BETN1CS25077)
+
 ITM University Gwalior
